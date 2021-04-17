@@ -1,15 +1,10 @@
 # React Context API with React Hooks
 
-A code along from the [Net Ninja tutorial][nnt] covering how to use the Context Api with Hooks
-
-## Notes
-- This uses react functional components instead of classes
-- The first commit completes through lesson 8 (no hooks implementation)
-- The last commit will have the complete tutorial with hooks
+A code along from the [Net Ninja tutorial][nnt] covering how to use the Context Api with Hooks. This uses react functional components throughout
 
 ## Setup
 
-Install the dependencies with npm and run the application
+`cd` into the directory. Install the deps and run the application
 
 ```
 npm install && npm start
