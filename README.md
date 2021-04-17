@@ -4,7 +4,7 @@ A code along from the [Net Ninja tutorial][nnt] covering how to use the Context 
 
 ## Notes
 - This uses react functional components instead of classes
-- The first commit completes through lesson 8 (no hooks implementation)
+- The `context-api without hooks` commit completes through lesson 8 (no hooks implementation)
 - The last commit will have the complete tutorial with hooks
 
 ## Setup
