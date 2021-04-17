@@ -1,6 +1,10 @@
 # React Context API with React Hooks
 
-A code along from the [Net Ninja tutorial][nnt] covering how to use the Context Api with Hooks. This uses react functional components throughout
+A code along from the [Net Ninja tutorial][nnt] covering how to use the Context API with Hooks using react functional components. The files are separated into the tutorial and final project folders and in addition to the Context API also covers the following hooks:
+
+- `useReducer`
+- `useEffect`
+- `useState`
 
 ## Setup
 
